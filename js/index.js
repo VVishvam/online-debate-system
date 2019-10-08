@@ -8,10 +8,10 @@ window.addEventListener('load',function(){
   
   
   setTimeout(function(){welcome.style.top='0';},delay);
-  setTimeout(function(){subtext.style.bottom = '0%';},delay*2);
-  setTimeout(function(){subtext.style.bottom = '-100%';},delay*4);
-  setTimeout(function(){form.style.opacity='1';},delay*5);
-  setTimeout(function(){follow.style.bottom='0%';},delay*6);
+  setTimeout(function(){subtext.style.bottom = '0%';},delay*5);
+  setTimeout(function(){subtext.style.bottom = '-100%';},delay*7);
+  setTimeout(function(){form.style.opacity='1';},delay*6);
+  setTimeout(function(){follow.style.bottom='0%';},delay*8);
   setTimeout(
     function(){
       social[0].style.marginTop='0px';
